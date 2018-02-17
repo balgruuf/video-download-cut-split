@@ -1,0 +1,44 @@
+[
+	{
+		"name": "nic1",
+		"url": "https://www.youtube.com/watch?v=caxMBk1__-Y",
+		"chuncks": 
+			[
+				{
+					"start": "00:00:50.0",
+					"end": "00:01:10.0"
+				},
+				{
+					"start": "00:01:50.0",
+					"end": "00:01:54.0"
+				},
+				{
+					"start": "00:02:41.0",
+					"end": "00:02:50.0"
+				},
+				{
+					"start": "00:03:07.0",
+					"end": "00:03:19.0"
+				}
+			]
+	},
+	{
+		"name": "nic2",
+		"url": "https://www.youtube.com/watch?v=6RRvDarJsHA",
+		"chuncks":
+			[
+				{
+					"start": "00:00:11.0",
+					"end": "00:00:56.0"
+				},
+				{
+					"start": "00:01:01.0",
+					"end": "00:01:48.0"
+				},
+				{
+					"start": "00:01:53.0",
+					"end": "00:02:24.0"
+				}
+			]
+	}
+]
