@@ -11,8 +11,8 @@ If you found this script helpful, please consider to contribute or make a donati
 
 This script requires the followings:
 
-- youtube-dl
-- ffmpeg
+- [youtube-dl](https://rg3.github.io/youtube-dl/download.html)
+- [ffmpeg](https://www.ffmpeg.org/download.html)
 - (python)
 
 The listed programs must be installed and inserted into the path environement variable.
